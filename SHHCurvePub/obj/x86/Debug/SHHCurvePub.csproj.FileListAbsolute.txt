@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\bin\x86\Debug\SHHCurvePub.dll
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\bin\x86\Debug\SHHCurvePub.pdb
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.dll
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.pdb
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.csprojResolveAssemblyReference.cache
+F:\SHHCurveThumbnail\SHHCurvePub\bin\x86\Debug\SHHCurvePub.dll
+F:\SHHCurveThumbnail\SHHCurvePub\bin\x86\Debug\SHHCurvePub.pdb
+F:\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.csproj.CoreCompileInputs.cache
+F:\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.dll
+F:\SHHCurveThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.pdb
+D:\SHHRectangleThumbnail\SHHCurvePub\bin\x86\Debug\SHHRectanglePub.dll
+D:\SHHRectangleThumbnail\SHHCurvePub\bin\x86\Debug\SHHRectanglePub.pdb
+D:\SHHRectangleThumbnail\SHHCurvePub\obj\x86\Debug\SHHCurvePub.csproj.CoreCompileInputs.cache
+D:\SHHRectangleThumbnail\SHHCurvePub\obj\x86\Debug\SHHRectanglePub.dll
+D:\SHHRectangleThumbnail\SHHCurvePub\obj\x86\Debug\SHHRectanglePub.pdb

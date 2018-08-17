@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurveCore\bin\x86\Debug\SHHCurveCore.dll
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurveCore\bin\x86\Debug\SHHCurveCore.pdb
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.dll
+C:\Users\Administrator\Desktop\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.pdb
+F:\SHHCurveThumbnail\SHHCurveCore\bin\x86\Debug\SHHCurveCore.dll
+F:\SHHCurveThumbnail\SHHCurveCore\bin\x86\Debug\SHHCurveCore.pdb
+F:\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.csproj.CoreCompileInputs.cache
+F:\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.dll
+F:\SHHCurveThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.pdb
+D:\SHHRectangleThumbnail\SHHCurveCore\bin\x86\Debug\SHHRectangleCore.dll
+D:\SHHRectangleThumbnail\SHHCurveCore\bin\x86\Debug\SHHRectangleCore.pdb
+D:\SHHRectangleThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.csprojAssemblyReference.cache
+D:\SHHRectangleThumbnail\SHHCurveCore\obj\x86\Debug\SHHCurveCore.csproj.CoreCompileInputs.cache
+D:\SHHRectangleThumbnail\SHHCurveCore\obj\x86\Debug\SHHRectangleCore.dll
+D:\SHHRectangleThumbnail\SHHCurveCore\obj\x86\Debug\SHHRectangleCore.pdb
